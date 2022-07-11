@@ -1,0 +1,40 @@
+{
+  "keywords": {
+    "password": "Пароль",
+    "emailOrUsername": "Имя пользователя: электронная почта",
+    "logOut": "Выйти",
+    "create": "Создать",
+    "register": "Регистрация",
+    "login" : "Авторизоваться",
+    "confirm" : "Подтверждать"
+  },
+
+  "loginPage" : {
+    "haveAccount" : "У вас нет учетной записи HyeID?",
+    "forgotPassword" : "Забыл пароль?"
+  },
+
+  "registrationPage" : {
+    "alreadyHaveAccount": "У вас уже есть учетная запись Hye ID?",
+    "firstName" : "Имя",
+    "lastName": "Фамилия",
+    "email" : "Эл. адрес",
+    "phoneNumber" : "Номер телефона",
+    "confirmPassword": "Подтвердить Пароль"
+  },
+
+  "validations" : {
+    "emailRequired": "Требуется электронная почта",
+    "emailNotValid": "Пожалуйста, введите действительный адрес электронной почты",
+    "invalidPassword" : "Неверный пароль",
+    "confirmPassword" : "Пароли не совпадают",
+    "firstName" : "Требуется имя",
+    "lastName" : "Требуется фамилия",
+    "phoneNumber": "Похоже, введенный вами номер недействителен.\nПроверьте номер и повторите попытку."
+  },
+
+  "dashboardPage" : {
+    "currentUser" : "Текущий пользователь",
+    "welcome" : "Добро пожаловать"
+  }
+}

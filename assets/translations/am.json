@@ -1,0 +1,40 @@
+{
+  "keywords": {
+    "password": "Գաղտնաբառ",
+    "emailOrUsername": "Մականուն: Էլեկտրոնային հասցե",
+    "logOut": "Դուրս գալ",
+    "create": "Ստեղծել",
+    "register": "Գրանցվել",
+    "login" : "Մուտք գործել",
+    "confirm" : "Հաստատել"
+  },
+
+  "loginPage" : {
+    "haveAccount" : "Չունե՞ք HyeID էջ",
+    "forgotPassword" : "Մոռացե՞լ եք գաղտնաբառը"
+  },
+
+  "registrationPage" : {
+    "alreadyHaveAccount": "Արդեն ունե՞ք HyeID էջ",
+    "firstName" : "Անուն",
+    "lastName": "Ազգանուն",
+    "email" : "Էլեկտրոնային հասցե",
+    "phoneNumber" : "Հեռախոսահամար",
+    "confirmPassword": "Հաստատել գաղտնաբառը"
+  },
+
+  "validations" : {
+    "emailRequired": "Պահանջվում է էլ.փոստի հասցեն",
+    "emailNotValid": "Խնդրում ենք մուտքագրել վավեր էլ.փոստի հասցե",
+    "invalidPassword" : "Անվավեր գաղտնաբառ",
+    "confirmPassword" : "Գաղտնաբառերը չեն համապատասխանում",
+    "firstName" : "Անունը պարտադիր է",
+    "lastName" : "Ազգանունը պարտադիր է",
+    "phoneNumber": "Ձեր մուտքագրած համարը, կարծես թե, վավեր չէ:\nԽնդրում ենք ստուգել համարը և նորից փորձել:"
+  },
+
+  "dashboardPage" : {
+    "currentUser" : "Ընթացիկ օգտատեր",
+    "welcome" : "Բարի գալուստ"
+  }
+}

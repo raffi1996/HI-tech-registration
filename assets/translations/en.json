@@ -1,0 +1,40 @@
+{
+  "keywords": {
+    "password": "Password",
+    "emailOrUsername": "Username: email",
+    "logOut": "Log out",
+    "create": "Create",
+    "register": "Register",
+    "login" : "Login",
+    "confirm" : "ConfIrm"
+  },
+
+  "loginPage" : {
+    "haveAccount" : "Don’t have an HyeID account?",
+    "forgotPassword" : "Forgot password?"
+  },
+
+  "registrationPage" : {
+    "alreadyHaveAccount": "Already have a HyeID account?",
+    "firstName" : "First Name",
+    "lastName": "Last Name",
+    "email" : "email",
+    "phoneNumber" : "Phone Number",
+    "confirmPassword": "Confirm Password"
+  },
+
+  "validations" : {
+    "emailRequired": "Email required",
+    "emailNotValid": "Please enter valid email",
+    "invalidPassword" : "invalid password",
+    "confirmPassword" : "Passwords do not match",
+    "firstName" : "First name is required",
+    "lastName" : "Last name is required",
+    "phoneNumber": "Looks like the number you entered is not valid.\nPlease check the number and try again."
+  },
+
+  "dashboardPage" : {
+    "currentUser" : "Current User",
+    "welcome" : "Welcome"
+  }
+}
